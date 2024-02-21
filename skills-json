@@ -1,0 +1,182 @@
+[
+    {
+        "title": "Introduction to Haskell Programming",
+        "description": "Learn the fundamentals of Haskell programming through video lectures and coding exercises.",
+        "link": "https://youtube.com/playlist?list=PLyqSpQzTE6M9whs2Vz_80ons0vRrvGMV5&si=5NPCJ3wgoOFWTV0u",
+        "category": "Technical"
+    },
+    {
+        "title": "Data Science Fundamentals",
+        "description": "Explore data science concepts",
+        "link": "https://youtu.be/-ETQ97mXXF0?si=hdwbwdvg6XdPzEJ8",
+        "category": "Technical"
+    },
+    {
+        "title": "Web Development with JavaScript",
+        "description": "Master web development using JavaScript.",
+        "link": "https://youtube.com/playlist?list=PLfqMhTWNBTe3H6c9OGXb5_6wcc1Mca52n&si=XwX3JLi4yB3-xLAB",
+        "category": "Technical"
+    },
+    {
+        "title": "Cybersecurity Essentials",
+        "description": "Understand cybersecurity essentials.",
+        "link": "https://youtu.be/hXSFdwIOfnE?si=xRU2z__i4j4XWjWM ",
+        "category": "Technical"
+    },
+    {
+        "title": "Blockchain Basics",
+        "description": "Get an overview of blockchain basics with video explanations and practical applications.",
+        "link": "https://youtube.com/playlist?list=PLsyeobzWxl7oY6tZmnZ5S7yTDxyu4zDW-&si=sAQ4-d-eARecDwGf",
+        "category": "Technical"
+    },
+    {
+        "title": "Artificial Intelligence Fundamentals",
+        "description": "Explore the basics of Artificial Intelligence through video lectures and hands-on AI projects.",
+        "link": "https://youtu.be/JMUxmLyrhSk?si=hcYYTNIMvqc5sLFQ",
+        "category": "Technical"
+    },
+    {
+        "title": "Mobile App Development with React Native",
+        "description": "Engage in interactive coding challenges and real-world app development using React Native.",
+        "link": "https://youtu.be/u64gyCdqawU?si=8typvsnlR8g0jTIe",
+        "category": "Technical"
+    },
+    {
+        "title": "Cloud Computing Essentials",
+        "description": "Learn essential cloud computing concepts through virtual labs and simulations on popular cloud platforms.",
+        "link": "#",
+        "category": "Technical"
+    },
+    {
+        "title": "IoT Prototyping and Programming",
+        "description": "Discover IoT prototyping and programming with video tutorials and practical projects using IoT devices.",
+        "link": "https://youtu.be/2LaAJq1lB1Q?si=fiIIKbjDkSjilqf3",
+        "category": "Technical"
+    },
+    {
+        "title": "Augmented Reality Application Development",
+        "description": "Hands-on experience in AR app development and 3D modeling exercises for immersive learning.",
+        "link": "https://youtu.be/WzfDo2Wpxks?si=Yr8z3JvVSN0njUhe",
+        "category": "Technical"
+    },
+    {
+        "title": "Effective Communication in the Digital Age",
+        "description": "Enhance communication skills in the digital age with video lessons and role-playing exercises.",
+        "link": "https://youtu.be/WzfDo2Wpxks?si=23NQc7Rlv1muO9sK",
+        "category": "Soft"
+    },
+    {
+        "title": "Problem-Solving Strategies",
+        "description": "Develop problem-solving strategies through interactive case studies and quizzes.",
+        "link": "https://youtube.com/playlist?list=PLhkDrAIa7yTHBv7NdBMu-q4Z6-knTm6eJ&si=QCOsbLN-p8isujba",
+        "category": "Soft"
+    },
+    {
+        "title": "Leadership Development",
+        "description": "Improve leadership skills with video lectures and team collaboration projects.",
+        "link": "https://youtube.com/playlist?list=PLD26358825FD23EE1&si=LztXeuR7fJZtc4RT",
+        "category": "Soft"
+    },
+    {
+        "title": "Emotional Intelligence Mastery",
+        "description": "Master emotional intelligence through interactive scenarios and self-assessment tools.",
+        "link": "https://youtube.com/playlist?list=PLIVw5u_TgkrP0RGd3DGjVgTpTLZhXP9Jd&si=l0YTR1_9kAr_Rgry",
+        "category": "Soft"
+    },
+    {
+        "title": "Time Management for Professionals",
+        "description": "Learn effective time management for professionals with video tutorials and real-world application tasks.",
+        "link": "https://youtu.be/7ax4Tb5G1P4?si=uH5eDT1mHxwkU_Ls",
+        "category": "Soft"
+    },
+    {
+        "title": "Effective Team Collaboration",
+        "description": "Enhance teamwork through group projects and virtual team-building exercises.",
+        "link": "https://youtu.be/2mUDPVW9GwA?si=WEtH7MXwbFPNJsxy",
+        "category": "Soft"
+    },
+    {
+        "title": "Critical Thinking and Decision-Making",
+        "description": "Develop critical thinking skills with case studies and interactive decision-making scenarios.",
+        "link": "https://youtube.com/playlist?list=PLtKNX4SfKpzX_bhh4LOEWEGy3pkLmFDmk&si=jrlQ9ycMloA7n4OP",
+        "category": "Soft"
+    },
+    {
+        "title": "Adaptability in a Changing Workplace",
+        "description": "Adapt to changing workplace dynamics with video lessons and adaptability challenges.",
+        "link": "https://youtu.be/eSX-Kuo4ulw?si=lFv24pVmXKW5FQgE",
+        "category": "Soft"
+    },
+    {
+        "title": "Negotiation Skills Mastery",
+        "description": "Master negotiation skills through role-playing sessions and negotiation simulations.",
+        "link": "https://youtube.com/playlist?list=PL6vWkk9L7LeHKze5em0hAzvagJ1oIQv_P&si=2pVpASCXsQJvHvdV",
+        "category": "Soft"
+    },
+    {
+        "title": "Cultural Intelligence in a Globalized World",
+        "description": "Improve cross-cultural communication skills with exercises and real-world cultural challenges.",
+        "link": "https://youtu.be/0wnX4Lu69GI?si=fzZBIE4U19C79d6W",
+        "category": "Soft"
+    },
+    {
+        "title": "Renewable Energy Technologies",
+        "description": "Explore renewable energy technologies through video documentaries and industry expert interviews.",
+        "link": "https://youtube.com/playlist?list=PLwdnzlV3ogoXUifhvYB65lLJCZ74o_fAk&si=84YKG_bxqekEomlu",
+        "category": "Industry"
+    },
+    {
+        "title": "Healthcare Innovation",
+        "description": "Discover healthcare innovation with interactive case studies and virtual patient scenarios.",
+        "link": "https://youtu.be/N8w5_3qMVmE?si=km8VDN7vQ612daQN",
+        "category": "Industry"
+    },
+    {
+        "title": "AI in Marketing",
+        "description": "Learn the application of AI in marketing through video lectures and hands-on marketing simulations.",
+        "link": "https://youtube.com/playlist?list=PLLy_2iUCG87DiYGeMH4c-8KXFkaEt3KIz&si=QVliDkJ-Lc_9RKrP",
+        "category": "Industry"
+    },
+    {
+        "title": "Sustainable Urban Planning",
+        "description": "Understand sustainable urban planning through virtual city planning exercises and expert insights.",
+        "link": "https://youtube.com/playlist?list=PLLy_2iUCG87AAaDRVrD02Y1z44OXt5shB&si=F4MItFbjkgY03tKM",
+        "category": "Industry"
+    },
+    {
+        "title": "Space Exploration Technologies",
+        "description": "Explore space exploration technologies with video lectures and simulated space missions.",
+        "link": "https://youtu.be/68PlPkeOwng?si=avk9w5HlKPHK1xuI",
+        "category": "Industry"
+    },
+    {
+        "title": "Digital Marketing Trends and Strategies",
+        "description": "Explore the latest trends and strategies in digital marketing through video lectures and hands-on campaigns.",
+        "link": "https://youtu.be/G6DmDqYLWL8?si=YULNbzFC2w9zWtXO",
+        "category": "Industry"
+    },
+    {
+        "title": "Biotech Innovations and Laboratory Techniques",
+        "description": "Experience virtual lab experiments and study biotech case studies for practical insights.",
+        "link": "https://youtube.com/playlist?list=PLOIVkOjhZ1iHkq_tcgTS9nMpbLhmDMRrW&si=VLH3907VAiJuhXAN",
+        "category": "Industry"
+    },
+    {
+        "title": "Financial Technology (Fintech) Applications",
+        "description": "Engage in Fintech coding projects and financial simulations to understand applications in the financial sector.",
+        "link": "https://youtube.com/playlist?list=PLUl4u3cNGP61Q_RVDn6srWbLV_zFnd9n0&si=jUv7TaHaKvofQEdX",
+        "category": "Industry"
+    },
+    {
+        "title": "Smart Cities: Urban Technology Solutions",
+        "description": "Tackle virtual urban planning challenges and simulations to explore smart city solutions.",
+        "link": "https://youtube.com/playlist?list=PLVChLOrFQyZT-QcW79i-It3BldRDLbiGu&si=9qoNn7f42pPtF631",
+        "category": "Industry"
+    },
+    {
+        "title": "Space Tourism Operations and Management",
+        "description": "Experience space tourism business simulations and learn about space travel logistics.",
+        "link": "https://youtu.be/68PlPkeOwng?si=o5UXV4Kh8-gx61u_",
+        "category": "Industry"
+    }
+]
