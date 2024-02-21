@@ -1,0 +1,74 @@
+[
+    {
+      "name": "Human Resources Coordinator",
+      "qualification": "Bachelor's degree in Human Resources or a related field, knowledge of HR policies and procedures, strong interpersonal and organizational skills",
+      "cgpaRequirement": "2.8 or higher",
+      "skills": ["HR Policies", "Interpersonal Skills", "Organizational Skills"]
+    },
+    {
+      "name": "Financial Analyst",
+      "qualification": "Bachelor's degree in Finance, Accounting, or a related field, proficiency in financial analysis and reporting, strong Excel skills",
+      "cgpaRequirement": "3.2 or higher",
+      "skills": ["Financial Analysis", "Reporting", "Excel Skills"]
+    },
+    {
+      "name": "Graphic Designer",
+      "qualification": "Bachelor's degree in Graphic Design or a related field, proficiency in design software, creativity and attention to detail",
+      "cgpaRequirement": "3.0 or higher",
+      "skills": ["Graphic Design", "Design Software", "Creativity"]
+    },
+    {
+      "name": "Customer Service Representative",
+      "qualification": "High school diploma or equivalent, excellent communication and problem-solving skills, customer service experience is a plus",
+      "cgpaRequirement": "N/A",
+      "skills": ["Communication Skills", "Problem-Solving", "Customer Service"]
+    },
+    {
+      "name": "Sales Associate",
+      "qualification": "High school diploma or equivalent, strong communication and interpersonal skills, sales experience is a plus",
+      "cgpaRequirement": "N/A",
+      "skills": ["Communication Skills", "Interpersonal Skills", "Sales"]
+    },
+    {
+      "name": "Administrative Assistant",
+      "qualification": "High school diploma or equivalent, strong organizational and multitasking abilities, proficiency in office software",
+      "cgpaRequirement": "N/A",
+      "skills": ["Organizational Skills", "Multitasking", "Office Software"]
+    },
+    {
+      "name": "Project Coordinator",
+      "qualification": "Bachelor's degree in Business or a related field, experience in project coordination, strong organizational and communication skills",
+      "cgpaRequirement": "3.0 or higher",
+      "skills": ["Project Coordination", "Organizational Skills", "Communication Skills"]
+    },
+    {
+      "name": "Social Media Coordinator",
+      "qualification": "Bachelor's degree in Marketing, Communications, or a related field, experience in social media management, creativity and communication skills",
+      "cgpaRequirement": "3.2 or higher",
+      "skills": ["Social Media Management", "Creativity", "Communication Skills"]
+    },
+    {
+      "name": "IT Support Specialist",
+      "qualification": "Associate's or Bachelor's degree in IT or a related field, experience in IT support, strong problem-solving and technical skills",
+      "cgpaRequirement": "3.0 or higher",
+      "skills": ["IT Support", "Problem-Solving", "Technical Skills"]
+    },
+    {
+      "name": "Content Writer",
+      "qualification": "Bachelor's degree in English, Journalism, or a related field, excellent writing and editing skills, creativity and attention to detail",
+      "cgpaRequirement": "3.0 or higher",
+      "skills": ["Writing", "Editing", "Creativity"]
+    },
+    {
+      "name": "Retail Store Manager",
+      "qualification": "Bachelor's degree in Business or a related field, experience in retail management, strong leadership and organizational skills",
+      "cgpaRequirement": "3.2 or higher",
+      "skills": ["Retail Management", "Leadership Skills", "Organizational Skills"]
+    },
+    {
+      "name": "Executive Assistant",
+      "qualification": "Bachelor's degree in Business Administration or a related field, strong organizational and communication skills, attention to detail",
+      "cgpaRequirement": "3.0 or higher",
+      "skills": ["Organizational Skills", "Communication Skills", "Attention to Detail"]
+    }
+  ]
