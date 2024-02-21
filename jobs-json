@@ -18,7 +18,7 @@
       "skills": ["Graphic Design", "Design Software", "Creativity"]
     },
     {
-      "name": "Customer Service Representative",
+          "name": "Customer Service Representative",
       "qualification": "High school diploma or equivalent, excellent communication and problem-solving skills, customer service experience is a plus",
       "cgpaRequirement": "N/A",
       "skills": ["Communication Skills", "Problem-Solving", "Customer Service"]
@@ -60,7 +60,7 @@
       "skills": ["Writing", "Editing", "Creativity"]
     },
     {
-      "name": "Retail Store Manager",
+      "name": "Retail Store Manager",                                                                                            
       "qualification": "Bachelor's degree in Business or a related field, experience in retail management, strong leadership and organizational skills",
       "cgpaRequirement": "3.2 or higher",
       "skills": ["Retail Management", "Leadership Skills", "Organizational Skills"]
@@ -71,4 +71,4 @@
       "cgpaRequirement": "3.0 or higher",
       "skills": ["Organizational Skills", "Communication Skills", "Attention to Detail"]
     }
-  ]
+[
